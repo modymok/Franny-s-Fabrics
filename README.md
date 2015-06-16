@@ -1,4 +1,4 @@
-# Franny-s-Fabrics
+# Franny's Fabrics
 
 ## Strategy and decision in hiding sidebar
 
